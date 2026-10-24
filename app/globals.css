@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-white: #FFFFFF;
+    --bg-surface: #FFF7ED;
+    --brand-orange: #EA580C;
+    --brand-orange-dark: #C2410C;
+    --brand-green: #15803D;
+  }
+
+  body {
+    background-color: #FFFFFF;
+    color: #1C1917;
+    font-family: var(--font-sans), var(--font-devanagari), system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: var(--font-serif), var(--font-devanagari), Georgia, serif;
+  }
+
+  .font-mono {
+    font-family: var(--font-mono), monospace;
+  }
+}

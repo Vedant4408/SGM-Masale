@@ -1,0 +1,6 @@
+{
+  "name": "SGM Masale — Heritage Indian Spices & Wholesale Store",
+  "description": "Complete mobile-first e-commerce platform and wholesale B2B portal for SGM Masale featuring 48 Indian spice varieties, variant pack sizes, server-verified Razorpay checkout, and a full inventory & order admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
